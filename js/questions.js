@@ -182,189 +182,189 @@ let questions = [
   },
     {
     numb: 16,
-    question: "Which is the semiconductor material?",
+    question: "Which PPE is used for nose protection?",
     
-    answer: "Germanium",
+    answer: "Mask",
     options: [
-      "Eureka",
-      "Ebonite",
-      "Maganin",
-      "Germanium"
+      "Gloves",
+      "Goggles",
+      "Apron",
+      "Mask"
     ]
   },
     {
     numb: 17,
-    question: "What is the reading of the micrometer as shown in the figure?",
-      immg:"img17",
-    answer: "4.55mm",
+    question: "Which PPE is used for body protection??",
+    
+    answer: "Leather apron",
     options: [
-      "5.05mm",
-      "5.00mm",
-      "4.55mm",
-      "4.05mm"
+      "Leather apron",
+      "Weld screen",
+      "Boot",
+      "Helmet"
     ]
   },
      {
     numb: 18,
-    question: "Which is used to measure the size of the conductor?",
+    question: "Which PPE is used to protect from hot particles hazard?",
    
-    answer:"Standard wire gauge",
+    answer:"Leather apron",
     options: [
-      "Bevel gauge",
-      "Vernier caliper",
-      "Standard wire gauge",
-      "Depth gauge"
+      "Ear plug",
+      "Nose Mask",
+      "Leather apron",
+      "Gum boots"
     ]
   },
        {
     numb: 19,
-    question: "What is the purpose of serving layer in underground cable?",
+    question: "Which PPE is used to prevent toxic fumes?",
     
-    answer:"Protect armouring from atmospheric condition",
+    answer:"Respiration pad",
     options: [
-      "Protect the cable from mechanical vibration",
-      "Protect the cable from mechanical injury",
-      "Protect metallic sheath against corrosion",
-      "Protect armouring from atmospheric condition"
+      "Hand screen",
+      "Respiration pad",
+      "Goggles",
+      "Apron"
     ]
   },
         {
     numb: 20,
-    question: "Which type of joint is used for extending the length of conductor in over head lines?",
+    question: "What is the benefits of 5s concept?",
    
-    answer:"Western Union joint",
+    answer:"Increase productivity",
     options: [
-      "Scarfed joint",
-      "Aerial tap joint",
-      "Britannia T joint",
-      "Western Union joint"
+      "Increase the cost",
+      "Reduce absenteeism",
+      "Prevent accident",
+      "Increase productivity"
     ]
   },  
      {
     numb: 21,
-    question: "What is the effect on molten solder due to repeated melting?",
+    question: "What is the fist aid for sever bleeding?",
     
-    answer:"Tin content reduced",
+    answer:"Apply pressure to the wound",
     options: [
-      "Tin content reduced",
-      "Lead content reduced",
-      "Prevent slug formation",
-      "Even solder flowing in joint"
+      "Lower the injured body",
+      "Apply pressure to the wound",
+      "Apply hot water",
+      "Rubbing with alcohol"
     ]
   },
                  
         {
     numb: 22,
-    question: "Which type of soldering method is used for servicing and repairing of electronics items?",
-    
-    answer:"Soldering with soldering gun",
+    question: "What is the name of the part marked as X shown in the figure?",
+    immg:"img22",
+    answer:"Depth measuring blade",
     options: [
-      "Dip soldering",
-      "Soldering with a flame",
-      "Soldering with soldering gun",
-      "Machine soldering"
+      "Beam",
+      "Fixed jaw",
+      "Vernier scale",
+      "Depth measuring blade"
     ]
   },  
      {
     numb: 23,
-    question: "Which method of soldering is used for repairing the vehicle body?",
-    
-    answer:"Soldering with flame",
+    question: "What is the name of the part marked as X shown in the figure?",
+    immg:"img23",
+    answer:"Lock",
     options: [
-      "Dip soldering",
-      "Soldering with flame",
-      "soldring with soldering iron",
-      "machine soldering"
+      "Cap",
+      "Lock",
+      "Stock",
+      "Graduated sleeve"
     ]
   }, 
      {
     numb: 24,
-    question: "What is the disadvantage of solid conductor compared to stranded conductor?",
+    question: "Which is the least count of the metric outside micrometer?",
     
-    answer: "Less flexibility",
+    answer: "0.01 mm",
     options: [
-      "Less rigidity",
-      "Less flexibility",
-      "Low melting point",
-     "low maechanical strength"
+      "0.01 mm",
+      "0.10 mm",
+      "0.0001mm",
+     "0.00001mm"
     ]
   },
   {
     numb: 25,
-    question: "Why the soldering iron must be kept into a stand that not in use while soldering?",
+    question: "Which part ensures inform pressure on the measuring faces in the outside micrometer?",
     
-    answer: "It prevents burns and fire",
+    answer: "Ratchet stop",
     options: [
-      "It prevents burns and fire",
-      "To control the excessive heat",
-      "To save the time of soldering process",
-     "To avoid dry soldering"
+      "Spindle",
+      "Barrel",
+      "Thimble",
+     "Ratchet stop"
     ]
   },        
                {
     numb: 26,
-    question: "What is the cause for cold solder defect in soldering?",
+    question: "Which is the fixed measuring face of a micrometer?",
     
-    answer:"Insufficient heating",
+    answer:"Anvil",
     options: [
-      "Excessive heating",
-      "Insufficient heating",
-      "Incorrect usage of flux",
-      "High wattage soldering iron"
+      "Anvil",
+      "Barrel",
+      "Spindle",
+      "Thimble"
     ]
   }, 
      {
     numb: 27,
-    question: "What is the value of current (I) flowing through the circuit?",
+    question: "What is the name of the part marked as X shown in the figure?",
        immg:"img27",
-    answer: "2 A",
+    answer: "frame",
     options: [
-      "6 A",
-      "3 A",
-      "2 A",
-     "1 A"
+      "Anvil",
+      "frame",
+      "Spindle",
+     "Thimble"
     ]
   },
           {
     numb: 28,
-    question: "What is the purpose of additional covering over the insulation of insulated conductor?",
-  
-    answer: "To increase dielectric strength",
+    question: "What is the name of the part marked as X shown in the figure?",
+    immg:"img28",
+    answer: "Anvil",
     options: [
-      "To increase dielectric strength",
-      "To reduce the conductor resistance",
-      "To reduce the power loss",
-     "To increase the voltage drop"
+      "Anvil",
+      "Frame",
+      "Spindle",
+     "Thimble"
     ]
   },
 
       {
     numb: 29,
-    question: "Which type of cables are used for underground services from 33 kv to 66 kv?",
+    question: "What is the value of one thimble division reading in an outside micrometer?",
     
-    answer: "Extra- high tension cables",
+    answer: "0.01mm",
     options: [
-      "High tension cables",
-      "Extra super voltage cables",
-      "Super tension cables",
-     "Extra- high tension cables"
+      "0.05mm",
+      "0.01mm",
+      "0.02mm",
+     "0.03mm"
     ]
   },
       {
     numb: 30,
-    question: "Which is the property of a good conductor?",
-    
-    answer: "Low specific resistance",
+    question: "What is the name of the part marked as X shown in the figure?",
+      immg:"img30",
+    answer: "Center shoes",
     options: [
-      "Low specific resistance",
-      "High dielectric strength",
-      "High specific resistance",
-     "Low mechanical strength"
+      "Spindle",
+      "Plunger",
+      "Center shoes",
+     "Fixed anvil insert"
     ]
   },
  {
     numb: 31,
-    question: "Which material is used as conductors for wiring?",
+    question: "W?",
     
     answer: "Copper",
     options: [
