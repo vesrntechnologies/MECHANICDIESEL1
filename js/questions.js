@@ -2,60 +2,60 @@
 let questions = [
     {
     numb: 1,
-    question: "Which test is conducted to locate the faults in U.G. cables?",
+    question: "Which is a chemical hazard?",
    
-    answer: "Loop Test",
+    answer: "Explosive",
     options: [
-      "Loop Test",
-      "External growler Test",
-      "Breakdown Voltage Test",
-      "Insulation Resistance Test"
+      "Noise",
+      "Explosive",
+      "Vibration",
+      "Radiation"
     ]
   },
      {
     numb: 2,
-    question: "What does the number 1.40 represent if a stranded conductor is designated as 7/1.40?",
-    answer: "Diameter of each conductor",
+    question: "What is the need for occupational health and safety?",
+    answer: "Reduces absenteeism",
     options: [
-      "Area of cross section",
-      "Radius of one conductor",
-      "Diameter of all conductor", 
-      "Diameter of each conductor"
+      "Decreases employee morale",
+      "Decreases the quality",
+      "Reduces absenteeism", 
+      "Reduces productivity"
     ]
   },
     {
     numb: 3,
-    question: "What is the size of the neutral core of a 90 sq mm 31/2 core U.G cable?",
+    question: "Which is a Biological hazard?",
     
-    answer: "45 Sq mm",
+    answer: "Infection",
     options: [
-      "45 Sq mm",
-      "50 Sq mm",
-      "70 Sq mm",
-      "90 Sq mm"
+      "Smoking",
+      "Sickness",
+      "Infection",
+      "Poor discipline"
     ]
   },
     {
     numb: 4,
-    question: "What is the name of the tool as shown in the figure?",
-    immg:"img4",
-    answer: "Crimping tool",
+    question: "Which waste oil is harmful to the environment?",
+    //immg:"img4",
+    answer: "Used engine oil",
     options: [
-      "cutting plier",
-      "Wire stripper",
-      "Crimping tool",
-      "Side cutting plier"
+      "Neem oil",
+      "Gingelly oil",
+      "Used engine oil",
+      "Coconut oil"
     ]
   },
     {
     numb: 5,
-    question: "Which type of joint is used in over head lines for high tensile strength?",
-    answer: "Western union joint",
+    question: "What is the effect of air borne dust on human health?",
+    answer: "Throat infection",
     options: [
-      "Scarfed joint",
-      "Married Joint",
-      "Western union joint",
-      "Rat tail joint"
+      "Calora",
+      "Death",
+      "Throat infection",
+      "Rise in blood pressure"
     ]
   },
   {
