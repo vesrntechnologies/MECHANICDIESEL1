@@ -364,90 +364,90 @@ let questions = [
   },
  {
     numb: 31,
-    question: "W?",
-    
-    answer: "Copper",
+    question: "What is the name of the part marked as X shown in the figure?",
+      immg:"img31",
+    answer: "Plunger",
     options: [
-      "Mild Steel",
-      "Copper",
-      "Silver",
-     "Galvanized iron"
+      "Anvil",
+      "Stem",
+      "Plunger",
+     "Pointer"
     ]
   },
       {
     numb: 32,
-    question: "Which layer is provided above the metallic sheath in UG cable?",
+    question: "Which is measured by feeler gauge?",
     
-    answer: "Bedding",
+    answer: "Gap between the mating parts",
     options: [
-      "Armouring",
-      "Bedding",
-      "Serving",
-     "Paper insulation"
+      "Radius",
+      "Screw pitch",
+      "Surface roughness",
+     "Gap between the mating parts"
     ]
   },
      {
     numb: 33,
-    question: "What is the formula to find the Electro Motive Force (EMF)?",
+    question: "Which mearking media  is used for a machine finished surface?",
     
-    answer: "EMF = Potential difference + voltage drop",
+    answer: "Prussian blue",
     options: [
-      "EMF = Potential difference – voltage drop",
-      "EMF = Potential difference + voltage drop",
-      "EMF = Potential difference + voltage drop/2",
-     "EMF = Potential difference + 2 x voltage drop"
+      "Carbon powder",
+      "Prussian blue",
+      "Graphite",
+     "Grease"
     ]
   },
       {
     numb: 34,
-    question: "Which law states that the applied voltage in a closed circuit, is equal to the sum of the voltage drops?",
+    question: "Which narking device is used  to scribe circle?",
     
-    answer: "Lead sheath",
+    answer: "Outside caliper",
   
     options: [
-      "Ohms law",
-      "Laws of resistance",
-      "Kirchhoffs first law",
-     "Kirchhoffs second law"
+      "Jenny caliper",
+      "Inside caliper",
+      "Spring divider",
+     "Outside caliper"
     ]
   },
      {
     numb: 35,
-    question: "What is the formula for the equivalent resistance (RT) of the three resistors R1, R2 & R3 are connected in parallel?",
-    
-    answer: "RT=1/R1+1/R2+1/R3",
+    question: "What is the name of the calliper shown in the figure?",
+      immg:"img35",
+    answer: "RSpring joint outside caliper",
  
     options: [
-      "RT = R1 + R2 + R3",
-      "RT=1/R1+1/R2+1/R3",
-      "RT = 1/(R1 + R2 + R3)",
-     "none"
+      "Inside caliper",
+      "Outside caliper",
+      "Firm joint caliper",
+     "Spring joint outside caliper"
     ]
   },
      {
     numb: 36,
-    question: "What is the reading of the ohmmeter connected across the opened R2 resistor as shown in the circuit?",
-     immg:"img36",
-    answer: "Indicate infinite resistance",
+    question: "What is the angle of a prick punch?",
+     //immg:"img36",
+    answer: "60o",
     
     options: [
-      "Indicate zero reading",
-      "Indicate infinite resistance",
-      "Difference in the value of the resistance of R1 and R3 only",
-     "Sum of the resistance of R1 and R3 only"
+      "60o",
+      "90o",
+      "120o",
+     "180o"
     ]
   },
      {
     numb: 37,
-    question: "What is the name of the part marked X of the belted U.G cable as shown in the figure?",
+    question: "What is the name of the part marked as X shown in the figure?",
     
-    answer: "Wire wound resistor",
+    answer: "Pein",
     immg:"img37",
     options: [
-      "Metal film resistor",
-      "Wire wound resistor",
-      "Carbon -film resistor",
-     "Carbon composition resistor"
+      "Face",
+      "Pein",
+      "Cheek",
+     "Eye hole"
     ]
   },
      {
