@@ -60,123 +60,124 @@ let questions = [
   },
   {
     numb: 6,
-    question: "What is the unit for quantity of electricity?",
-    answer: "Coulomb",
+    question: "What is the name of the safety device shown in the figure?",
+    immg:"img6",
+    answer: "Goggles",
     options: [
-      "Mho",
-      "Coulomb",
-      "Volt/second",
-      "Ampere/second"
+      "Goggles",
+      "Hand  gloves",
+      "Hand screen",
+      "Helmet screen"
     ]
   },
   {
     numb: 7,
-    question: "What is the name of the soldering method as shown in the figure? ",
+    question: "When this part of the body bleeds profusely, it is considered serious and needs professional attention?",
     immg:"img7",
-    answer: "Soldering gun",
+    answer: "Wrist",
     options: [
-      "Dip Soldering",
-      "Soldering iron",
-      "Soldering gun",
-      "soldering with flame"
+      "Leg",
+      "Knee",
+      "Wrist",
+      "Thigh"
     ]
   },
   {
     numb: 8,
-    question: "What is the name of the soldering method as shown in the figure?",
+    question: "What is the treatment for burnt and scalded hands?",
     immg:"img8",
-    answer: "Temperature controlled soldering",
+    answer: "Wash burnt hand with cold water",
     options: [
-      "Dip Soldering",
-      "Soldering with blow lamp",
-      "Soldering with soldering gun",
-      "Temperature controlled soldering"
+      "Blow hot air on the burnt hand",
+      "Blow cool air on the burnt hand",
+      "Wash burnt hand with cold water",
+      "Wash burnt hand with hot water"
     ]
   },
       {
     numb: 9,
-    question: "How many electrons are there in the third shell of the copper atom?",
+    question: "What should be done if an electric shock victim is unable to release his grip from the conductor?",
     
-    answer: "18",
+    answer: "Turn off the power",
  
     options: [
-      "8",
-      "13",
-      "18",
-      "29"
+      "Turn off the power",
+      "Place the victim on one side with head down",
+      "Cover all burns with a dry loose dressing",
+      "Ask a bystander to help you to move the victim"
     ]
   },
       {
     numb: 10,
-    question: "What is the formula for the Quantity of electricity (Q)?",
+    question: "How are waste oils disposed?",
  
-    answer: "Current x Time",
+    answer: "Dispose it to licensed vendors",
     options: [
-      "Current x Time",
-      "Voltage x Current",
-      "Current x Resistance",
-      "Voltage x Resistance"
+      "Hand over back to the customer",
+      "Throw the removed oil in the drain",
+      "Keep in small containers in remote corners",
+      "Dispose it to licensed vendors"
     ]
   },
      {
     numb: 11,
-    question: "Which formula is used to calculate the power of a DC circuit?",
+    question: "Which occupational health hazards involves Toxic?",
   
-    answer: "Current x voltage",
+    answer: "Chemical hazard",
     options: [
-      "Voltage x time",
-      "Current x voltage",
-      "Current x resistance",
-      "Voltage x resistance"
+      "Physical hazard",
+      "Chemical hazard",
+      "Electrical hazard",
+      "Mechanical hazard"
     ]
   },
      {
     numb: 12,
-    question: "What is the advantage of the stranded conductor over the solid conductor?",
+    question: "Which safety involves wearing shoes in workshop?",
     
-    answer: "More flexible",
+    answer: "Personal safety",
     options: [
-      "cost is less",
-      "More flexible",
-      "less voltage drop",
-      "more insulation resistance"
+      "General safety",
+      "Personal safety",
+      "Mechanic safety",
+      "Material safety"
     ]
   },
  {
     numb: 13,
-    question: "What is the advantage of the crimping terminations?",
+    question: "What is the airm of first aid?",
  
-    answer: "Avoid loose connections",
+    answer: "Preserve life",
     options: [
-      "Increase the voltage",
-      "Reduce the load current",
-      "Avoid loose connections",
-      "Easy to replace"
+      "Vaccination",
+      "Preserve life",
+      "Prolong treatment",
+      "Prevent accident"
     ]
   },
 {
     numb: 14,
-    question: "Which part of the underground cable is protecting the metallic sheath against corrosion?",
+    question: "Which is the occupational mechanical hazard?",
     
-    answer: "Bedding",
+    answer: "Unguarded machinery",
   
     options: [
-      "Serving",
-      "Bedding",
-      "Armouring",
-      "Lead Sheath"
+      "Sickness",
+      "Current leakage",
+      "Unguarded machinery",
+      "Wrong layout of machinery"
     ]
   },
     {
     numb: 15,
-    question: "What is the use of dipsoldering method?",
+    question: "Which type of personal protection is recommended to handle the loads with rough surfaces and pointed projections?",
   
-    answer: "Soldering miniature components on PCB",
+    answer: "Leather gloves",
     options: [
-      "Hard soldering",
-      "Piping and cable soldering work",
-      "Soldering miniature components on PCB",
-     "soldering of tin sheets"
+      "Paper gloves",
+      "Rubber gloves",
+      "Leather gloves",
+     "Polythene gloves"
     ]
   },
     {
