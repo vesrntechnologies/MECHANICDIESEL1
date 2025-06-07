@@ -415,7 +415,7 @@ let questions = [
     numb: 35,
     question: "What is the name of the calliper shown in the figure?",
       immg:"img35",
-    answer: "RSpring joint outside caliper",
+    answer: "Spring joint outside caliper",
  
     options: [
       "Inside caliper",
