@@ -452,20 +452,73 @@ let questions = [
   },
      {
     numb: 38,
-    question: "Which material is having the negative temperature co-efficient property?",
-    
-    answer: "Mica",
+    question: "What is the name of the plier shown in the figure?",
+      immg:"img38",
+    answer: "End cutting plier",
  
     options: [
-      "Mica",
-      "Eureka",
-      "Copper",
-     "Manganin"
+      "Slip joint plier",
+      "End cutting plier",
+      "flat nose plier",
+     "side cutting plier"
     ]
   },
       {
     numb: 39,
-    question: "Convert 0.456 decimal fraction into percentage?",
+    question: "What are the two classification of system of units?",
+    
+    answer: "Fundamental and derived",
+ 
+    options: [
+      "British and Metric",
+      "Gravitational and non-gravitational",
+      "Fundamental and derived",
+     "Metric and Intenational"
+    ]
+  },
+      {
+    numb: 40,
+    question: "What are fundamental units?",
+    
+    answer: "Length, Mass, Time",
+ 
+    options: [
+      "Length, Mass, Volume",
+      "Length, Mass, Time",
+      "Length, Mass, Area",
+     "Length, Pressure, Volume"
+    ]
+  },
+       {
+    numb: 41,
+    question: "What denotes letter M in MKS system?",
+    
+    answer: "Meter",
+ 
+    options: [
+      "Mile",
+      "Meter",
+      "Millimeter",
+     "Micron"
+    ]
+  },
+
+       {
+    numb: 42,
+    question: "What is the square root of 529?",
+    
+    answer: "23",
+ 
+    options: [
+      "13",
+      "23",
+      "33",
+     "43"
+    ]
+  },
+      {
+    numb: 43,
+    question: "Convert 0.45 decimal fraction into percentage?",
     
     answer: "45.6%",
  
@@ -476,90 +529,37 @@ let questions = [
      "0.0456%"
     ]
   },
-      {
-    numb: 40,
-    question: "What is the square of 0.01?",
-    
-    answer: "0.0001",
- 
-    options: [
-      "0.001",
-      "0.0001",
-      "0.01",
-     "0.00001"
-    ]
-  },
-       {
-    numb: 41,
+    {
+    numb: 44,
     question: "Which metal contains iron as a major content?",
     
     answer: "Ferrous metal",
  
     options: [
       "Brass metal",
-      "bronze metal",
-      "zinc",
-     "Ferrous metal"
-    ]
-  },
-
-       {
-    numb: 42,
-    question: "What is termed as the quantity of matter contained in a body?",
-    
-    answer: "Mass",
- 
-    options: [
-      "Density",
-      "Volume",
-      "Mass",
-     "Spefific gravity"
-    ]
-  },
-      {
-    numb: 43,
-    question: "What is called mass per unit volume of a substances?",
-    
-    answer: "Denisty",
- 
-    options: [
-      "Mass",
-      "Weight",
-      "Density",
-     "Volume"
-    ]
-  },
-    {
-    numb: 44,
-    question: "What is the S.I unit of heat?",
-    
-    answer: "Joule",
- 
-    options: [
-      "Calorie",
-      "Joule",
-      "Centigrade heat unit",
-     "British thermal unit"
+      "Bronze metal",
+      "Ferrous metal",
+     "Zinc"
     ]
   },
      {
     numb: 45,
     question: "Identify the conventional symbol of material?",
     immg:"img45",
-    answer: "Steel",
+    answer: "water",
  
     options: [
-      "Lead",
-      "Steel",
-      "Glass",
-     "Porcelain"
+      "water",
+      "concrete",
+      "asbestos",
+     "glass"
     ]
   },
      {
     numb: 46,
     question: "Identify the conventional symbol of material?",
     immg:"img46",
-    answer: "Glass",
+    answer: "Wood",
  
     options: [
       "Concrete",
@@ -570,54 +570,54 @@ let questions = [
   },
      {
     numb: 47,
-   question: "Identify the conventional symbol of material?",
+   question: "Identify the name of instrument?",
     immg:"img47",
-    answer: "Concrete",
+    answer: "protractor",
  
     options: [
-      "Steel",
-      "Wood",
-      "Glass",
-     "Concrete"
+      "Set square",
+      "protractor",
+      "french curve",
+     "T square"
     ]
   },
       {
     numb: 48,
-    question: "What is the trimmed size of A4 sheet?",
+    question: "identify the name of set square?",
  
-    answer: "210 x 297",
+    answer: "45o set square",
  
     options: [
-      "841 x 1189",
-      "594 x 841",
-      "210 x 297",
-     "148 x 210"
+      "15o set square",
+      "60o set square",
+      "30o set square",
+     "45o set square"
     ]
   },
       {
     numb: 49,
-    question: "The general form of linear equation",
+    question: "Compass used to draw for......",
     
-    answer: "ax+b",
+    answer: "circle",
  
     options: [
-      "ax+b",
-      "b+ax",
-      "a+aax",
-     "bx+ax"
+      "rectangle",
+      "square",
+      "circle",
+     "triangle"
     ]
   },
       {
     numb: 50,
-    question: "Identify the name of prism?",
-     immg:"img50",
-    answer: "Hexagonal prism",
+    question: "a=5, b=6, c=a*b?",
+  
+    answer: "30",
  
     options: [
-      "Square prism",
-      "Pentagonal prism",
-      "Triangular prism",
-     "Hexagonal prism"
+      "30",
+      "11",
+      "-1",
+     "-30"
     ]
   },
 
